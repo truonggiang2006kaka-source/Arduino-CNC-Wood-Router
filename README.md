@@ -59,6 +59,15 @@ A low-cost, open-source CNC router for woodworking, powered by **Arduino Uno** a
 - Dust Management: Wood dust is flammable and hazardous to breathe. Operate in a well-ventilated area or use a vacuum system.
 - Mechanical Hazards: Keep hands away from the spindle and lead screws while the machine is powered.
 
+ ---
+
+## 📚 Documentation
+To get started, follow our detailed guides:
+
+1.  [**Safety Precautions**](#-safety-precautions) (Read this first!)
+2.  [**Hardware Assembly Guide**](./hardware.md) - How to stack the boards and wire motors.
+3.  [**Software Setup**](./software.md) - How to flash GRBL firmware using Arduino IDE.
+
 ### Steps
 1. **Upload GRBL to Arduino**:
    ```bash
