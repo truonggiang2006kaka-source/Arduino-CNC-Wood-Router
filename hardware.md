@@ -19,10 +19,15 @@ Insert the **A4988/DRV8825 drivers** into the yellow sockets.
 * **Input Power:** Connect a **12V-24V DC** power source to the blue screw terminals. 
 * **Safety Rule:** Never connect or disconnect motors while the power supply is active.
 
- English Term	                   Tiếng Việt (Technical)	Description				
-CNC Shield	        Mạch mở rộng điều khiển CNC	Vỉ mạch cắm lên trên Arduino để điều khiển động cơ.				
-Stepper Motor	      Động cơ bước	Loại động cơ quay theo từng bước nhỏ, dùng cho độ chính xác cao.				
-Stepper Driver	    Module điều khiển động cơ bước	Linh kiện trung gian điều phối dòng điện cho động cơ (A4988).				
-Lead Screw	        Trục vít me	Thanh ren dùng để biến chuyển động quay thành chuyển động tịnh tiến.				
-Potentiometer	      Biến trở tinh chỉnh	Nút vặn nhỏ trên driver để điều chỉnh dòng điện (Ampe).				
-Polarity	          Chiều cực / Phân cực	Thứ tự dây (+) và (-) cần phải chính xác để tránh cháy mạch.				
+---
+
+## 📖 Glossary / Từ điển kỹ thuật (VN)
+
+| English Term | Tiếng Việt (Kỹ thuật) | Description |
+| :--- | :--- | :--- |
+| **CNC Shield** | Mạch mở rộng CNC | Vỉ mạch cắm lên trên Arduino để điều phối tín hiệu. |
+| **Stepper Motor** | Động cơ bước | Loại động cơ quay theo từng bước để đảm bảo độ chính xác. |
+| **Stepper Driver** | Module điều khiển | Linh kiện trung gian (A4988) cung cấp dòng điện cho động cơ. |
+| **Lead Screw** | Trục vít me | Thanh ren giúp chuyển đổi chuyển động quay thành tịnh tiến. |
+| **Potentiometer** | Biến trở tinh chỉnh | Vít xoay nhỏ trên driver để điều chỉnh cường độ dòng điện. |
+| **Polarity** | Chiều cực / Phân cực | Thứ tự dây (+) và (-) cần chính xác để tránh hỏng mạch. |		
