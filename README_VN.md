@@ -67,3 +67,7 @@ Một dự án mã nguồn mở về máy CNC router giá rẻ phục vụ ngàn
 
 ## Giấy phép
 Dự án này được cấp phép theo **Giấy phép MIT**. Xem tệp [LICENSE](LICENSE) để biết thêm chi tiết.
+
+## ✍️ Author & Project Notes
+Dự án này được xây dựng và tối ưu hóa bởi truonggiang2006kaka (Nguyễn Trường Giang), sinh viên ngành Tiếng Anh Khoa học Kỹ thuật tại HUST. 
+Mục tiêu của dự án là thực hành kỹ năng **Bản địa hóa kỹ thuật (Localization)** và **Quản lý tài liệu (Documentation Management)** cho các thiết bị điều khiển CNC.
