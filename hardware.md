@@ -21,7 +21,7 @@ Insert the **A4988/DRV8825 drivers** into the yellow sockets.
 
 ---
 
-## 📖 Glossary / Từ điển kỹ thuật (VN)
+##  Glossary / Từ điển kỹ thuật (VN)
 
 | English Term | Tiếng Việt (Kỹ thuật) | Description |
 | :--- | :--- | :--- |
