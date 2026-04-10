@@ -18,3 +18,11 @@ Insert the **A4988/DRV8825 drivers** into the yellow sockets.
 * **Motors:** Connect the 4-pin NEMA 17 cables to the headers labeled X, Y, and Z.
 * **Input Power:** Connect a **12V-24V DC** power source to the blue screw terminals. 
 * **Safety Rule:** Never connect or disconnect motors while the power supply is active.
+
+English Term,Tiếng Việt (Technical),Description
+CNC Shield,Mạch mở rộng điều khiển CNC,Vỉ mạch cắm lên trên Arduino để điều khiển động cơ.
+Stepper Motor,Động cơ bước,"Loại động cơ quay theo từng bước nhỏ, dùng cho độ chính xác cao."
+Stepper Driver,Module điều khiển động cơ bước,Linh kiện trung gian điều phối dòng điện cho động cơ (A4988).
+Lead Screw,Trục vít me,Thanh ren dùng để biến chuyển động quay thành chuyển động tịnh tiến.
+Potentiometer,Biến trở tinh chỉnh,Nút vặn nhỏ trên driver để điều chỉnh dòng điện (Ampe).
+Polarity,Chiều cực / Phân cực,Thứ tự dây (+) và (-) cần phải chính xác để tránh cháy mạch.
