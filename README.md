@@ -1,5 +1,5 @@
 # DIY Arduino CNC Wood Router
-Read this in: English | Tiếng Việt 
+Read this in: [🇺🇸 English](#) | [**🇻🇳 Tiếng Việt**](./README_VN.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![GRBL Version](https://img.shields.io/badge/GRBL-1.1-green)](https://github.com/gnea/grbl)
 
