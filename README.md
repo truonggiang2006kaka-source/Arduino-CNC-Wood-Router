@@ -53,7 +53,7 @@ A low-cost, open-source CNC router for woodworking, powered by **Arduino Uno** a
 - CNC Shield V3 (GRBL-compatible)
 - [GRBL 1.1 Library](https://github.com/gnea/grbl)
 
-### ⚠️Safety Precautions
+### ⚠️ Safety Precautions
 - Eye Protection: Always wear safety goggles. CNC routers produce high-speed wood debris and dust.
 - Emergency Stop: Ensure you have a physical "Kill Switch" or a way to disconnect power immediately.
 - Dust Management: Wood dust is flammable and hazardous to breathe. Operate in a well-ventilated area or use a vacuum system.
@@ -61,12 +61,12 @@ A low-cost, open-source CNC router for woodworking, powered by **Arduino Uno** a
 
  ---
 
-## 📚 Documentation
-To get started, follow our detailed guides:
-
-1.  [**Safety Precautions**](#-safety-precautions) (Read this first!)
-2.  [**Hardware Assembly Guide**](./hardware.md) - How to stack the boards and wire motors.
-3.  [**Software Setup**](./software.md) - How to flash GRBL firmware using Arduino IDE.
+## 🚀 Getting Started
+To build your router, follow these guides in the correct order. This ensures you don't damage your electronics before the software is ready.
+1.  [**Safety Precautions**](#-safety-precautions) — **Read this first!**
+2.  [**Hardware Assembly Guide**](./hardware.md) — How to stack the Arduino/Shield and wire the motors.
+3.  [**Software Setup & Configuration**](./software.md) — How to flash GRBL firmware and install control software.
+4.  [**Machine Calibration**](#) — *Coming Soon.*
 
 ### Steps
 1. **Upload GRBL to Arduino**:
